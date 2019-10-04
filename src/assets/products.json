@@ -1,0 +1,18 @@
+[
+    {
+      "marca": "BMW",
+        "modelo": "M3 GTR",
+            "color": "Plateado"
+    },
+    {
+      "marca": "Nissan",
+        "modelo": "GTR",
+            "color": "Azul marino"
+    },
+    {
+      "marca": "Honda",
+        "modelo": "Civic Type-R",
+            "color": "Blanco"
+    }
+  ]
+  
